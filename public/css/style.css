@@ -1,0 +1,29 @@
+body {
+    background-image: url('https://images5.alphacoders.com/927/927165.jpg');
+  }
+  
+  .h3 {
+    color: #0d6efd;
+  }
+  .row {
+    
+    color:rgb(12, 12, 12);
+  }
+  .container {
+    background: none!important;
+    border: none;
+    padding: 0!important;
+    color:#0d6efd;
+  }
+  .buttonliling {
+      background: none!important;
+      border: none;
+      padding: 0!important;
+      /*optional*/
+      /* font-family: arial, sans-serif; */
+      /*input has OS specific font-family*/
+      color: #0d6efd;
+      text-decoration: none;
+      cursor: pointer;
+    }
+    
